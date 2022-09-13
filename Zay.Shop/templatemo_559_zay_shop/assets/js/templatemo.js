@@ -54,7 +54,7 @@ $(document).ready(function() {
     });
     // End roduct detail
 
-    var audio = new Audio('KakaoTalk_Audio_20220913_1642_44_274');
+    var audio = new Audio('KakaoTalk_Audio_20220913_1642_44_274.m4a');
 audio.volume = 0.1;
 audio.autoplay = true;
 
